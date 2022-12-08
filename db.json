@@ -187,4 +187,128 @@
        }
    ],
    "Fruits":[{"Stock":"Yes","category":"Peach","discount":"25%","image_url":"https://www.jiomart.com/images/product/150x150/591429026/peach-sun-gold-premium-indian-500-g-0-20220518.jpg","name":"Peach Sun Gold Premium Indian Pack 500 g","price":149,"price1":210},{"Stock":"Yes","category":"Plum","discount":"19%","image_url":"https://www.jiomart.com/images/product/150x150/591238255/plum-premium-indian-pack-500-g-0-20220506.jpg","name":"Plum Premium Indian Pack 500 g","price":181,"price1":300},{"Stock":"Yes","category":"Avocado","discount":"17%","image_url":"https://www.jiomart.com/images/product/150x150/590860298/avocado-premium-indian-1-pc-approx-350-g-425-g-0-20211112.jpg","name":"Avocado Premium Indian 1 Pc (Approx 300 g - 400 g)","price":249,"price1":350},{"Stock":"Yes","category":"Plum","discount":"32%","image_url":"https://www.jiomart.com/images/product/150x150/591238256/plum-prune-premium-indian-pack-500-g-0-20220506.jpg","name":"Plum Prune Premium Indian Pack 500 g","price":200,"price1":400},{"Stock":"No","category":"Nectarine","discount":"4%","image_url":"https://www.jiomart.com/images/product/150x150/591778582/nectarine-white-flesh-premium-imported-1-pc-approx-170-g-220-g-0-20220531.jpg","name":"Nectarine White Flesh Premium Imported 1 Pc (Approx 170 g - 220 g)","price":239,"price1":500},{"Stock":"Yes","category":"Avocado","discount":"16%","image_url":"https://www.jiomart.com/images/product/150x150/591429030/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-0-20220526.jpg","name":"Avocado Hass Premium Imported 1 Pc (Approx 260 g - 320 g)","price":121,"price1":231},{"Stock":"No","category":"Avocado","discount":"16%","image_url":"https://www.jiomart.com/images/product/150x150/591778572/avocado-hass-premium-imported-3-pc-approx-780-g-960-g-0-20220531.jpg","name":"Avocado Hass Premium Imported 3 Pc (Approx 780 g - 960 g)","price":110,"price1":210},{"Stock":"Yes","category":"Avocado","discount":"16%","image_url":"https://www.jiomart.com/images/product/150x150/591778572/avocado-hass-premium-imported-3-pc-approx-780-g-960-g-0-20220531.jpg","name":"Avocado Hass Premium Imported 6 Pc (Approx 1.55 kg - 1.95 kg)","price":774,"price1":1010}]
+   ,"Food" : [{
+    "id": 1,
+    "img":"https://www.kindmeal.my/photos/moment/24/24449-47158-m.jpg",
+      "title":"YinYinBoy"
+   
+  },
+  {
+    "id": 2,
+    "img": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop",
+    "title": "Wtf Cafe, Mont Kiara Delights You With A Creative Of Western.."
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop",
+    "title": "Sun-dried Tomato Hummus"
+  },
+  {
+    "id": 4,
+    "img": "https://images.unsplash.com/photo-1481833761820-0509d3217039?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop",
+    "title": "Orangutan Mom Kitra Cuddles With Her Fuzzy Baby"
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop",
+    "title": "Carrot ''salmon'' & Cream Cheese Bagels"
+  },
+  {
+    "id": 6,
+    "img": "https://www.kindmeal.my/photos/moment/23/23882-45290-s.jpg",
+    "title": "The Hungry Tapir"
+  },
+  {
+    "id": 7,
+    "img": "https://www.kindmeal.my/photos/moment/23/23881-45285-s.jpg",
+    "title": "Soul Kitchen Cheras C180"
+  },
+  {
+    "id": 8,
+    "img": "https://www.kindmeal.my/photos/moment/23/23880-45282-s.jpg",
+    "title": "Jujube Vegetarian House"
+  },
+  {
+    "id": 9,
+    "img": "https://www.kindmeal.my/photos/moment/23/23879-45278-s.jpg",
+    "title": "好地方素食 Niche"
+  },
+  {
+    "id": 10,
+    "img": "https://www.kindmeal.my/photos/moment/23/23878-45277-s.jpg",
+    "title": "Jujube Vegetarian House 枣子树Yulek"
+  },
+  {
+    "id": 11,
+    "img": "https://www.kindmeal.my/photos/item/0/448-5264-s.jpg",
+    "title": "Garden of Eden"
+  },
+  {
+    "id": 12,
+    "img": "https://www.kindmeal.my/photos/item/0/303-3241-s.jpg",
+    "title": "Dessert Set"
+  },
+  {
+    "id": 13,
+    "img": "https://www.kindmeal.my/photos/item/0/521-6594-s.jpg",
+    "title": "Chicken Rice"
+  },
+  {
+    "id": 14,
+    "img": "https://www.kindmeal.my/photos/item/0/429-4916-s.jpg",
+    "title": "Insalata Caprese (Caprese Salad)"
+  },
+  {
+    "id": 15,
+    "img": "https://www.kindmeal.my/photos/item/0/601-8769-s.jpg",
+    "title": "Hakka Cha Nyuk Rice"
+  },
+  {
+    "id": 16,
+    "img": "https://www.kindmeal.my/photos/member/22/22499-m.jpg",
+    "title": "YenTheng"
+  },
+  {
+    "id": 17,
+    "img": "https://www.kindmeal.my/photos/member/34/34844-m.jpg",
+    "title": "MayNg"
+  },
+  {
+    "id": 18,
+    "img": "https://www.kindmeal.my/photos/member/14/14169-m.jpg",
+    "title": "Chloe39"
+  },
+  {
+    "id": 19,
+    "img": "https://www.kindmeal.my/photos/member/14/14338-m.jpg",
+    "title": "好地方素食"
+  },
+  {
+    "id": 20,
+    "img": "https://www.kindmeal.my/photos/member/33/33616-m.jpg",
+    "title": "StevenSoo"
+  },{
+      "id" : 21,
+      "img":"https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop",
+    "title": "Ibex Risk Their Lives Climbing Nearly Vertical Walls"
+  },{
+      "id" : 22,
+      "img": "https://www.kindmeal.my/photos/moment/24/24448-47155-m.jpg",
+      "title":"Bvelyn"
+  },{
+      "id" : 23,
+      "img": "https://www.kindmeal.my/photos/moment/24/24352-46822-m.jpg",
+      "title":"EveWong"
+  },{
+      "id" : 24,
+      "img": "https://www.kindmeal.my/photos/moment/24/24416-47028-m.jpg",
+      "title":"DavinaGoh"
+  },{
+      "id" : 25,
+      "img": "https://www.kindmeal.my/photos/moment/24/24440-47122-m.jpg",
+      "title":"ChewLangLeng"
+  }
+
+]
+  
 }
